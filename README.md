@@ -13,6 +13,7 @@ We did the House prices competition as the second term project of the 2IS Master
 ● Explaining and analyzing the results
 
 ### Team :
-- Sarune 
-- Phu
-- Rayhane
+
+- Sarune SAMOSKAITE
+- Kim-Phuong PHAM
+- Rayhane BELAROUSSI
